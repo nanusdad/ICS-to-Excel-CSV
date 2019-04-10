@@ -24,7 +24,10 @@
       "no-multiple-empty-lines": "off",
       "require-jsdoc": "off",
       "no-var": "error",
-      "indent": ["error", 2]
+      "indent": [
+        "error",
+        2
+      ]
     }
   }
 }
